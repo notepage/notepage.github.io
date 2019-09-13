@@ -67,7 +67,7 @@
         var query = window.location.search.substring(1);
         var qs = parse_query_string(query);
         console.log(qs)
-        fetch('http://localhost/assets/json/team.json')
+        fetch('https://notepage.github.io/assets/json/team.json')
             .then(function(response) {
             return response.json();
             })
