@@ -61,7 +61,7 @@
 
             if(typeof(qs['p']) != undefined && typeof(qs['id']) != undefined){
                 // Get JSON Content and asign to Website
-                jsonImport('http://localhost/assets/json/changelog.json').then(function(res){
+                jsonImport('https://notepage.github.io/assets/json/changelog.json').then(function(res){
                     if(typeof(res[qs['p']][(qs['id']-1)]) != 'undefined'){
                         document.getElementById('name').innerHTML = res[qs['p']][(qs['id']-1)].version;
                         document.getElementById('title').innerHTML = "Changelog | " + qs['p'].toUpperCase() + " | " + res[qs['p']][(qs['id']-1)].version;
