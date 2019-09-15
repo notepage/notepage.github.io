@@ -1,0 +1,14 @@
+{
+    "web":[
+        {
+            "version":"1.0.0",
+            "body":"<p>This is the Release Version</p><br><ul><li><p>no updates made</p></li></ul>"
+        }
+    ],
+    "desktop":[
+        {
+            "version":"1.0.32",
+            "body":"<p>In this Version, Settings finaly got added! Beside that we startet working on multi platform and made a few UI Changes</p><ul><li>Added Settings</li><li>Small changes on Splashscreen</li><li>Changed Storage Handling to support multi Platform <b style=\"color:red;\">(WIP)</b></li></ul>"
+        }
+    ]
+}
