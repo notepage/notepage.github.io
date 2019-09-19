@@ -12,7 +12,7 @@
         },
         {
             "version":"1.0.33",
-            "body":"<p>In this Version, Settings finaly got added! Beside that we startet working on multi platform and made a few UI Changes</p><ul><li>Fixed Settings Issue (it now generates the Config)</li><li>Fixed Settings beein cleared</li><li>Added Version to Settings Screen</li><li>Fixed Update Button</li><li>Fixed Status buttons (minimize,maximize,close)</li><li><b style=\"color:#e74c3c\">Due to these Bugs The Path Setting was disabled until the next patch</b></li></ul>"
+            "body":"<p>This Update was more for fixing unfound bugs then for adding new Features..<br>the Bugfixes are laying foundation for new features</p><ul><li>Fixed Settings Issue (it now generates the Config)</li><li>Fixed Settings beein cleared</li><li>Added Version to Settings Screen</li><li>Fixed Update Button</li><li>Fixed Status buttons (minimize,maximize,close)</li><li><b style=\"color:#e74c3c\">Due to these Bugs The Path Setting was disabled until the next patch</b></li></ul>"
         }
     ]
 }
