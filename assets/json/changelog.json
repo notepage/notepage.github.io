@@ -16,7 +16,7 @@
         },
         {
             "version":"1.0.34",
-            "body":"<li>Fixed Settings Issue (it now generates the Config)</li><li>Fixed Settings beeing cleared</li><li>Added Version to Settings Screen</li><li>Fixed Update Button</li> <li>Fixed Status Buttons (minimize,maximize,close)</li><li>Removed Eye hurting and not visible colours</li><li>Added Dropdown for Tools</li><li>Notepage wil not create empty Documents anymore</li><li>Window Reloads when files are getting added or removed</li><li>Changed Default spawn sizes from 1000*700 to 1280*720 Pixel</li><li><b style="color:#e74c3c">Due to major bugs The Path Setting is disabled</b></li>"
+            "body":"<p>This Update Fixed tons of Setting Issues and we're proud to introduce the new UI. The new UI Improves Usabillity and looks just way better.</p><li>Fixed Settings Issue (it now generates the Config)</li><li>Fixed Settings beeing cleared</li><li>Added Version to Settings Screen</li><li>Fixed Update Button</li> <li>Fixed Status Buttons (minimize,maximize,close)</li><li>Removed Eye hurting and not visible colours</li><li>Added Dropdown for Tools</li><li>Notepage wil not create empty Documents anymore</li><li>Window Reloads when files are getting added or removed</li><li>Changed Default spawn sizes from 1000*700 to 1280*720 Pixel</li><li><b style="color:#e74c3c">Due to major bugs The Path Setting is disabled</b></li>"
         }
     ]
 }
